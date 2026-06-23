@@ -78,6 +78,20 @@ vite.config.js
 * Product image uploads
 * Order history
 * Wishlist functionality
+## Screenshots
+
+### Shop Page
+![Shop Page](screenshots/shop-page.png)
+
+### Cart Page
+![Cart Page](screenshots/cart-page.png)
+
+### Checkout Page
+![Checkout Page](screenshots/checkout-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
 
 ## Author
 
